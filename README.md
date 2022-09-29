@@ -1,4 +1,4 @@
-# Modelling in Biology - Python Implementation
+# Modelling in Biology (Part 1) - Python Implementation
 
 This repository contains the problem sheets and example code for the Modelling in Biology undergraduate course study sessions.
 
