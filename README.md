@@ -44,3 +44,49 @@ Note that you might have to make ```run_all.sh``` executable:
 ```
 $ chmod +x run_all.sh
 ```
+
+## Results
+
+Results are summarized here.
+
+### Training 1
+
+![Training 1](results/training1.pdf?raw=true)
+
+---
+
+### Training 2
+
+![Training 2](results/training2.pdf?raw=true)
+
+---
+
+### Training 3
+
+#### Exercise 1a
+
+![Training 3 Exercise 1a](results/training3_exercise1a.pdf?raw=true)
+
+---
+
+#### Exercise 2a
+
+![Training 3 Exercise 2a](results/training3_exercise2a.pdf?raw=true)
+
+---
+
+#### Exercise 2b
+
+![Training 3 Exercise 2b](results/training3_exercise2b.pdf?raw=true)
+
+---
+
+### Training 4
+
+![Training 4](results/training4.pdf?raw=true)
+
+---
+
+### Training 5
+
+![Training 5](results/training5.pdf?raw=true)
