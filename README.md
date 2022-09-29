@@ -20,15 +20,15 @@ $ conda activate mib
 
 1. Create a virtual environment to run the scripts in
 ```
-python -m venv .
+$ python -m venv .
 ```
 2. Activate the venv
 ```
-source bin/activate
+$ source bin/activate
 ```
 3. Install the required packages
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Usage
@@ -42,5 +42,5 @@ $ ./run_all.sh
 Note that you might have to make ```run_all.sh``` executable:
 
 ```
-chmod +x run_all.sh
+$ chmod +x run_all.sh
 ```
