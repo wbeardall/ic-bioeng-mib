@@ -68,6 +68,7 @@ a.set_ylabel('x')
 a.set_title('1a.') # Figure labelling.
 f.tight_layout()
 f.savefig(os.path.join(result_dir,'training3_exercise1a.pdf'))
+f.savefig(os.path.join(result_dir,'training3_exercise1a.svg'))
 
 #------------------------------------------------------------------------------
 # Exercise 1b: Averaging trajectories and calculating error
@@ -148,6 +149,7 @@ a.text(0.1,0.9,r"$\mu \approx$ " f"{mu_2a:.3f}", transform=a.transAxes)
 a.text(0.1,0.8,r"$\sigma \approx$ " f"{stddev_2a:.3f}", transform=a.transAxes)
 f.tight_layout()
 f.savefig(os.path.join(result_dir,'training3_exercise2a.pdf'))
+f.savefig(os.path.join(result_dir,'training3_exercise2a.svg'))
 
 #------------------------------------------------------------------------------
 # Exercise 2b: Long runtime, sigma=5
@@ -202,6 +204,7 @@ a.text(0.1,0.9,r"$\mu \approx$ " f"{mu_2b:.3f}", transform=a.transAxes)
 a.text(0.1,0.8,r"$\sigma \approx$ " f"{stddev_2b:.3f}", transform=a.transAxes)
 f.tight_layout()
 f.savefig(os.path.join(result_dir,'training3_exercise2b.pdf'))
+f.savefig(os.path.join(result_dir,'training3_exercise2b.svg'))
 
 #------------------------------------------------------------------------------
 # Exercise 2c: Discussion of histograms with respect to mean and stddev

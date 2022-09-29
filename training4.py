@@ -152,3 +152,4 @@ plot_nullclines_and_trajectories(a[5],x0s,alpha,beta,gamma)
 
 f.tight_layout()
 f.savefig(os.path.join(result_dir,'training4.pdf'))
+f.savefig(os.path.join(result_dir,'training4.svg'))

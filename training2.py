@@ -98,3 +98,4 @@ for i in range(2):
     
 f.tight_layout()
 f.savefig(os.path.join(result_dir,'training2.pdf'))
+f.savefig(os.path.join(result_dir,'training2.svg'))
